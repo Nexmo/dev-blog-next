@@ -34,7 +34,7 @@ More and more companies are using SMS to communicate with their customers becaus
 
 One of the most common use cases for SMS is two-factor authentication, which is the most popular form of authentication. 
 
-Companies also use SMS to send marketing messages. With a 98% open rate, SMS messages are one of the most effective ways to keep customers updated about the status of their order, sales, and any other essential things customers need to know. SMS messages also are read quickly: [90% of all text messages are read within three seconds](tatango.com/blog/sms-open-rates-exceed-99/), which means SMS is perfect for things like flash sales. 
+Companies also use SMS to send marketing messages. With a 98% open rate, SMS messages are one of the most effective ways to keep customers updated about the status of their order, sales, and any other essential things customers need to know. SMS messages also are read quickly: [90% of all text messages are read within three seconds](https://www.tatango.com/blog/sms-open-rates-exceed-99/), which means SMS is perfect for things like flash sales. 
 
 Some companies also use SMS for customer service. For example, many hotels are adopting SMS as a way to better communicate with their guests. 
 
