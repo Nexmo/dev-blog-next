@@ -24,7 +24,7 @@ As a programmer, you may have come across SMS, but you may not fully understand 
 
 Today, over[ four billion people send text messages a year](https://www.smseagle.eu/2017/03/06/daily-sms-mobile-statistics/) using technologies like SMS and MMS (another way to send text messages). Companies are increasingly using SMS to reach their customers on their mobile phones because SMS messages are convenient, and customers prefer them. SMS messages also have a 98% open rate, which is significantly higher than other forms of communication like email.
 
-Because so many companies use SMS, it is essential to understand how SMS messages work as a programmer. In this guide, you will learn more about what SMS is, how companies use SMS messages to communicate with their customers, learn to send a text message programmatically with less than 20 lines of code, and how to add an extra layer of security to your website or app by helping to confirm a user's identity using SMS.
+Because so many companies use SMS, it is essential to understand how SMS messages work as a programmer. In this guide, you will learn more about what SMS is and how companies use SMS messages to communicate with their customer. You will also learn to send a text message programmatically with less than 20 lines of code and how to add an extra layer of security to your website or app by helping to confirm a user's identity using SMS.
 
 ### How Do Companies Use SMS? 
 
@@ -126,7 +126,7 @@ That’s all it takes! When you run your code, your program will deliver your SM
 
 ### SMS Verification
 
-As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication is to confirm the person using your product's identity by helping to confirm they are in possession of the phone number they used to sign up for your service. So for, example, your website might require a username and password and also send an SMS message to the user's phone to add another layer of security to your login process. 
+As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication with SMS is to help confirm your user possesses the phone number they used to sign up for your service. So for, example, your website might require a username and password and also send an SMS message to the user's phone to add another layer of security to your login process. 
 
 You can use Vonage's Verify API to add two-factor authentication to your application in a few lines of code. Here is how to do it in Python, but you can also [find examples of using Vonage's Verify API using cURL, JavaScript, and other languages here.  ](<but you can also [find examples of using Vonage's Verify API using cURL, JavaScript and other languages here.](https://developer.nexmo.com/verify/code-snippets/send-verify-request-with-workflow)>)
 
