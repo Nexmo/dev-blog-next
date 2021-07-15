@@ -22,7 +22,7 @@ replacement_url: ""
 ---
 As a programmer, you may have come across SMS, but you may not fully understand what SMS is. SMS stands for short message service and is a communication protocol for sending short messages over wireless networks. Neil Papworth sent the first SMS message on December 3, 1992. He wrote Merry Christmas to his co-worker Richard Jarvis, despite Christmas being almost a month away. 
 
-Today, over [six billion people send text messages a year](https://www.cnn.com/2012/12/03/tech/mobile/sms-text-message-20/index.html) using technologies like SMS and MMS (another way to send text messages). Companies are increasingly using SMS to reach their customers on their mobile phones because SMS messages are convenient, and customers prefer them. SMS messages also have a 98% open rate, which is significantly higher than other forms of communication like email.
+Today, over[ four billion people send text messages a year](https://www.smseagle.eu/2017/03/06/daily-sms-mobile-statistics/) using technologies like SMS and MMS (another way to send text messages). Companies are increasingly using SMS to reach their customers on their mobile phones because SMS messages are convenient, and customers prefer them. SMS messages also have a 98% open rate, which is significantly higher than other forms of communication like email.
 
 Because so many companies use SMS, it is essential to understand how SMS messages work as a programmer. In this guide, you will learn more about what SMS is, how companies use SMS messages to communicate with their customers, learn to send a text message programmatically with less than 20 lines of code, and how to add an extra layer of security to your website or app by helping to confirm a user's identity using SMS.
 
