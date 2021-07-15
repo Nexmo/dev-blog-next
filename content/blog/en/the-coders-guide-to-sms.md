@@ -32,11 +32,9 @@ Because so many companies use SMS, it is essential to understand how SMS message
 
 More and more companies are using SMS to communicate with their customers because customers prefer SMS over other forms of communication. 
 
-According to Gallup, [texting is the most prevalent form of communication for Americans under 50](https://news.gallup.com/poll/179288/new-era-communication-americans.aspx).
-
 One of the most common use cases for SMS is two-factor authentication, which is the most popular form of authentication. 
 
-Companies also use SMS to send marketing messages. With a 98% open rate, SMS messages are one of the most effective ways to keep customers updated about the status of their order, sales, and any other essential things customers need to know. SMS messages also are read quickly: [90% of all text messages are read within three seconds](https://blog.adobe.com/en/publish/2015/07/27/marketing-with-98-percent-read-rate-and-10-more-compelling-stats.html#gs.437c55), which means SMS is perfect for things like flash sales. 
+Companies also use SMS to send marketing messages. With a 98% open rate, SMS messages are one of the most effective ways to keep customers updated about the status of their order, sales, and any other essential things customers need to know. SMS messages also are read quickly: [90% of all text messages are read within three seconds](tatango.com/blog/sms-open-rates-exceed-99/), which means SMS is perfect for things like flash sales. 
 
 Some companies also use SMS for customer service. For example, many hotels are adopting SMS as a way to better communicate with their guests. 
 
@@ -49,8 +47,6 @@ Another use case for SMS messages is alerts and reminders. For example, hair sal
 The SMS protocol is a group of technologies that enable you to send and receive voice communications over the internet. 
 
 SMS lets you send 160 characters of text or 70 characters in Unicode. But, of course, you’ve probably sent an SMS message longer than 160 characters before, so how is that possible? When you send an SMS message longer than 160 characters, your phone carrier breaks the messages up and sends multiple messages. However, your phone carrier makes sure they arrive in order, which is why you’ve probably never noticed the 160 character limit. 
-
-You can learn more about the SMS standard by [reading the short message peer-to-peer protocol specification.](https://smpp.org/)
 
 ### [](https://smpp.org/)SMS VS. MMS
 
