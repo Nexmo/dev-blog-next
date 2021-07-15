@@ -32,7 +32,7 @@ Because so many companies use SMS, it is essential to understand how SMS message
 
 More and more companies are using SMS to communicate with their customers because customers prefer SMS over other forms of communication. 
 
-One of the most common use cases for SMS is two-factor authentication, which is the most popular form of authentication. 
+One of the most common use cases for SMS is two-factor authentication, which is a popular way to help confirm a possesses  the phone number they signed up for a service with. 
 
 Companies also use SMS to send marketing messages. With a 98% open rate, SMS messages are one of the most effective ways to keep customers updated about the status of their order, sales, and any other essential things customers need to know. SMS messages also are read quickly: [90% of all text messages are read within three seconds](https://www.tatango.com/blog/sms-open-rates-exceed-99/), which means SMS is perfect for things like flash sales. 
 
@@ -72,7 +72,7 @@ OTT applications like iMessage and WhatsApp do not use SMS. However, that does n
 
 The advantages of OTT applications are they are free, allow users to send videos and other multimedia, and often have additional features like video chatting. 
 
-SMS has several advantages over OTT. OTT applications are "walled gardens," which means someone on Facebook messenger cannot message someone on WhatsApp. It also means you cannot send messages to phone numbers with OTT applications: you can only send messages to people who have downloaded that app. With SMS, you can send a message to anyone with a phone number. Plus, SMS does not rely on internet connectivity as OTT applications do. Unlike OTT applications, with SMS, you can send a message to anyone connected to a cellular network.
+SMS has several advantages over OTT. OTT applications are "walled gardens," which means someone on Facebook messenger cannot message someone on WhatsApp. It also means you cannot send messages to phone numbers with OTT applications: you can only send messages to people who have downloaded that app. With SMS, you can send a message to anyone with a phone number. Plus, SMS does not rely on internet connectivity as OTT applications do. Unlike OTT applications, you can send a message to anyone connected to a cellular network with SMS.
 
 ### Sending an SMS Message Programmatically
 
@@ -177,7 +177,7 @@ With its convenience, ubiquity, and high open rates, SMS is a cornerstone of bus
 
 Now that you've read this guide, I hope you have a basic understanding of SMS and are ready to continue learning more about this communication method that is only growing more important.
 
-If you want to learn more about sending SMS messages, you can [read our SMS API documentation here](https://developer.nexmo.com/messaging/sms/overview).
+If you want to learn more about sending SMS messages, you can [read our SMS API documentatio](https://developer.nexmo.com/messaging/sms/overview)n.
 
 And here is [more information about our Verify API for two-factor authentification.](https://www.vonage.com/communications-apis/verify/)
 
