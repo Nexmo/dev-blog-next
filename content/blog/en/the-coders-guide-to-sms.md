@@ -126,7 +126,7 @@ That’s all it takes! When you run your code, your program will deliver your SM
 
 ### SMS Verification
 
-As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication with SMS is to help confirm your user possesses the phone number they used to sign up for your service. So for, example, your website might require a username and password and also send an SMS message to the user's phone to add another layer of security to your login process. 
+As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication with SMS is to help confirm your user possesses the phone number they used to sign up for your service. 
 
 You can use Vonage's Verify API to add two-factor authentication to your application in a few lines of code. Here is how to do it in Python, but you can also [find examples of using Vonage's Verify API using cURL, JavaScript, and other languages here.  ](<but you can also [find examples of using Vonage's Verify API using cURL, JavaScript and other languages here.](https://developer.nexmo.com/verify/code-snippets/send-verify-request-with-workflow)>)
 
