@@ -76,7 +76,7 @@ SMS has several advantages over OTT. OTT applications are "walled gardens," whic
 
 ### Sending an SMS Message Programmatically
 
-You can easily send an SMS message programmatically using an API like the one we have at Vonage. I will now show you how to send an SMS message in less than twenty lines of code. 
+You can easily send an SMS message programmatically using an API like the one we have at Vonage. I will now show you how to send an SMS message in less than twenty lines of code. I use Python in this example, but you can also find examples of using Vonage's Verify API using curl, JavaScript and other languages here.  
 
 <sign-up number></sign-up>
 
@@ -126,9 +126,9 @@ That’s all it takes! When you run your code, your program will deliver your SM
 
 ### SMS Verification
 
-As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication is to confirm the person using your product's identity by verifying it more than one way. So for, example, your website might require a username and password and also send an SMS message to the user's phone to add another layer of security to your login process. 
+As I mentioned earlier, one of the most common use cases for SMS is two-factor authentication. The goal of two-factor authentication is to confirm the person using your product's identity by helping to confirm they are in possession of the phone number they used to sign up for your service. So for, example, your website might require a username and password and also send an SMS message to the user's phone to add another layer of security to your login process. 
 
-You can use Vonage's Verify API to add two-factor authentication to your application in a few lines of code. 
+You can use Vonage's Verify API to add two-factor authentication to your application in a few lines of code. Here is how to do it in Python, but you can also find examples of using Vonage's Verify API using curl, JavaScript and other languages here.  
 
 <sign-up></sign-up>
 
